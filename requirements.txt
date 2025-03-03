@@ -1,4 +1,4 @@
-import polars as pl
-import pyarrow as pa
-import altair as alt
-import voila
+polars
+pyarrow 
+altair 
+voila
